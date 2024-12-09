@@ -1,0 +1,8 @@
+model:
+  pose_size: 137
+  bert_embedding_dim: 768
+
+train:
+  epochs: 100
+  verbose_step: 1
+  batch_size: 2
